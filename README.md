@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there👋, Its me 
+<h1 align="center">Prithak Lamsal</h1>
 
 <!--
 **SasquatchRex/SasquatchRex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
