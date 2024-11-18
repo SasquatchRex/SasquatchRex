@@ -54,12 +54,12 @@ Here are some ideas to get you started:
 
 <h2 align="center">Github Stats:</h2>
 <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasquatchrex&theme=transparent&hide_border=false&show_icons=true&locale=en" alt="nancyaanchal" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasquatchrex&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact" alt="nancyaanchal" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasquatchrex&theme=transparent&hide_border=false&show_icons=true&locale=en" alt="PrithakLamsal" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasquatchrex&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact" alt="PrithakLamsal" /></p>
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasquatchrex&theme=transparent&hide_border=true" alt="streak graph"  /></p>
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sasquatchrex&theme=transparent&hide_border=false&show_icons=true&locale=en&layout=compact" width="45%"/>
+  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sasquatchrex&theme=transparent&hide_border=false&show_icons=true&locale=en&layout=compact" width="45%"/> -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sasquatchrex&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact" width="94%"/>
 </div>
 
