@@ -1,4 +1,4 @@
-## Hi there👋, Its me Prithak Lamsal
+## Hi there👋, Its me Prithak Lamsal aka Sasquatch Rex
 
 
 
