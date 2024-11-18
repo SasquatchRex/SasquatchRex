@@ -54,6 +54,18 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
+<h2 align="center">Github Stats:</h2>
+<div align="center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nancyaanchal&theme=transparent&hide_border=false&show_icons=true&locale=en" alt="nancyaanchal" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nancyaanchal&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact" alt="nancyaanchal" /></p>
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nancyaanchal&theme=transparent&hide_border=true" alt="streak graph"  /></p>
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nancyaanchal&theme=transparent&hide_border=false&show_icons=true&locale=en&layout=compact" width="45%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nancyaanchal&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact" width="94%"/>
+</div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prithak-lamsal-b131bb286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prithak-lamsal-b131bb286/" height="30" width="40" /></a>
