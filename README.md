@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <img src="https://cdn.worldvectorlogo.com/logos/capacitor-js.svg" alt="capacitor" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
-    <img src="[https://reactnative.dev/img/header_logo.svg](https://cdn.worldvectorlogo.com/logos/flutter.svg)" alt="flutter" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="flutter" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
