@@ -1,15 +1,13 @@
-<p font> Hi there👋, Its me </p> 
+## Hi there👋, Its me Prithak Lamsal
 
-<p align="center">Prithak Lamsal</p>
+
 
 <!--
 **SasquatchRex/SasquatchRex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 !-->
-- 🌱 I’m currently learning further Full Stack Developing
-- 📫 How to reach me: **contact@prithaklamsal.com.np**
-- ⚡ Fun fact: I miss vacation when I am at home and miss my laptop when on vacation
+
 
   <h2 align="center">Languages and Tools:</h2>
 <p align="center">
